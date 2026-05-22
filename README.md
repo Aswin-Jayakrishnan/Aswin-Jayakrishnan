@@ -13,8 +13,7 @@ Backend Engineer • Product Builder • AI & SaaS Enthusiast
 # 💫 About Me
 
 - 💻 Backend Engineer with experience in Python, Django, Flask & FastAPI
-- 🚀 Interested in SaaS products, AI systems & startup-focused applications
-- 🍽️ Currently building QR-based restaurant ordering & analytics platforms
+- 🚀 Interested in SaaS products, AI systems applications
 - ⚡ Passionate about scalable APIs, automation & modern product design
 - 🧠 Exploring AI integrations using LangChain & RAG architectures
 - 📍 Kerala, India
