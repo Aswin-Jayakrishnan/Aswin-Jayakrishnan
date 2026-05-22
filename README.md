@@ -1,56 +1,58 @@
-# Hi there 👋 I'm Aswin
+<h1 align="center">Hi 👋, I'm Aswin V V</h1>
 
-<div align="center">
+<h3 align="center">
+Backend Engineer • Product Builder • AI & SaaS Enthusiast
+</h3>
 
-🚀 Full Stack Developer  
-☕ Building digital solutions for cafés, restaurants & local businesses  
-📍 Kerala, India  
-🔥 Passionate about SaaS, AI tools, automation & startup ideas
-
-</div>
+<p align="center">
+🚀 Building scalable backend systems, AI-powered tools, and digital products for real-world businesses.
+</p>
 
 ---
 
 # 💫 About Me
 
-- 🔭 Currently building QR-based restaurant ordering systems
-- 🌱 Exploring Tauri, Flutter, AI integrations & scalable SaaS products
-- 💡 Love creating startup-style products from scratch
-- ⚡ Interested in automation, analytics dashboards & modern UI/UX
-- 🎯 Goal: Build products used by thousands of local businesses across India
+- 💻 Backend Engineer with experience in Python, Django, Flask & FastAPI
+- 🚀 Interested in SaaS products, AI systems & startup-focused applications
+- 🍽️ Currently building QR-based restaurant ordering & analytics platforms
+- ⚡ Passionate about scalable APIs, automation & modern product design
+- 🧠 Exploring AI integrations using LangChain & RAG architectures
+- 📍 Kerala, India
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+## Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
 
-### Tools & Platforms
+## AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+
+## Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
 # 📌 Featured Projects
 
 ## 🍽️ QR Restaurant Ordering Platform
-A smart QR-based ordering platform for cafés and restaurants where customers can scan, browse menus, and order directly from their phones.
+A QR-based food ordering and analytics system for cafés, restaurants & street-food vendors.
 
 ### Features
 - QR ordering
-- Live order dashboard
+- Live order tracking
 - Menu management
 - Table-wise ordering
 - Analytics dashboard
@@ -58,13 +60,37 @@ A smart QR-based ordering platform for cafés and restaurants where customers ca
 
 ---
 
-## 🤖 AI & Automation Tools
-Building experimental AI-powered dashboards, automation systems, and productivity tools.
+## 🤖 AI & Automation Projects
+Building AI-powered tools, automation systems, and analytics dashboards using Python & modern backend architectures.
 
 ---
 
-## 💻 Desktop Applications
+## 🖥️ Desktop Applications
 Exploring secure desktop applications using Tauri + Rust + React.
+
+---
+
+# 🏆 Certifications
+
+🎓 Coursera Certificate  
+- Machine Learning & AI Related Certification  
+🔗 https://www.coursera.org/account/accomplishments/verify/8ERHS3DWWXT2
+
+---
+
+# 💼 Professional Experience
+
+## Senior Backend Engineer — LogicPlum Pvt Ltd
+- REST API development
+- Redis caching & optimization
+- Background job systems
+- Docker & CI/CD workflows
+- LangChain & RAG integrations
+
+## Software Engineer — RISS Technologies
+- Django & Flask applications
+- ML model integrations
+- Business intelligence systems
 
 ---
 
@@ -82,12 +108,11 @@ Exploring secure desktop applications using Tauri + Rust + React.
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/Aswin-Jayakrishnan
-- LinkedIn: Add your LinkedIn here
-- Portfolio: Add portfolio link here
+- 💼 LinkedIn: http://linkedin.com/in/aswin-jayakrishnan-a884ba237
+- 📧 Email: aswinjayakrishnan9423@gmail.com
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Quote I Like
 
-> I enjoy turning crazy startup ideas into real working products 🚀
+> “Build products that solve real problems.”
