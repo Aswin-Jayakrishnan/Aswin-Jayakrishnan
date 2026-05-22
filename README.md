@@ -78,30 +78,14 @@ Exploring secure desktop applications using Tauri + Rust + React.
 
 ---
 
-# 💼 Professional Experience
-
-## Senior Backend Engineer — LogicPlum Pvt Ltd
-- REST API development
-- Redis caching & optimization
-- Background job systems
-- Docker & CI/CD workflows
-- LangChain & RAG integrations
-
-## Software Engineer — RISS Technologies
-- Django & Flask applications
-- ML model integrations
-- Business intelligence systems
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-Jayakrishnan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-Jayakrishnan&theme=tokyonight" />
 </p>
 
 ---
